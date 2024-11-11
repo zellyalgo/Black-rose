@@ -1,0 +1,222 @@
+{
+  "Jails": [
+    {
+      "Id": 1,
+      "Name": "jail white"
+    },
+    {
+      "Id": 2,
+      "Name": "jail green"
+    },
+    {
+      "Id": 3,
+      "Name": "jail purple"
+    },
+    {
+      "Id": 4,
+      "Name": "jail blue"
+    },
+    {
+      "Id": 5,
+      "Name": "jail yellow"
+    },
+    {
+      "Id": 6,
+      "Name": "jail red"
+    }
+  ],
+  "Tiles": [
+    {
+      "Id": 7,
+      "Name": "Black Rose"
+    },
+    {
+      "Id": 8,
+      "Name": "Throne"
+    },
+    {
+      "Id": 9,
+      "Name": "Garden"
+    },
+    {
+      "Id": 10,
+      "Name": "Observatorio"
+    }
+  ],
+  "Coordinates": {
+    "Players": {
+      "Player2": [
+        {
+          "Vertical": 3,
+          "Horizontal": -2
+        },
+        {
+          "Vertical": -3,
+          "Horizontal": 2
+        }
+      ],
+      "Player3": [
+        {
+          "Vertical": 2,
+          "Horizontal": 1
+        },
+        {
+          "Vertical": 1,
+          "Horizontal": -3
+        },
+        {
+          "Vertical": -3,
+          "Horizontal": 2
+        }
+      ],
+      "Player4": [
+        {
+          "Vertical": 1,
+          "Horizontal": 2
+        },
+        {
+          "Vertical": 3,
+          "Horizontal": -2
+        },
+        {
+          "Vertical": -1,
+          "Horizontal": -2
+        },
+        {
+          "Vertical": -3,
+          "Horizontal": 2
+        }
+      ],
+      "Player5": [
+        {
+          "Vertical": 3,
+          "Horizontal": 0
+        },
+        {
+          "Vertical": 0,
+          "Horizontal": 3
+        },
+        {
+          "Vertical": 3,
+          "Horizontal": -3
+        },
+        {
+          "Vertical": -1,
+          "Horizontal": -2
+        },
+        {
+          "Vertical": -1,
+          "Horizontal": 2
+        }
+      ],
+      "Player6": [
+        {
+          "Vertical": 3,
+          "Horizontal": 0
+        },
+        {
+          "Vertical": 0,
+          "Horizontal": 3
+        },
+        {
+          "Vertical": 3,
+          "Horizontal": -3
+        },
+        {
+          "Vertical": -3,
+          "Horizontal": 0
+        },
+        {
+          "Vertical": -3,
+          "Horizontal": 3
+        },
+        {
+          "Vertical": 0,
+          "Horizontal": -3
+        }
+      ]
+    },
+    "Tier0": [
+      {
+        "Vertical": 0,
+        "Horizontal": 0
+      }
+    ],
+    "Tier1": [
+      {
+        "Vertical": 1,
+        "Horizontal": 0
+      },
+      {
+        "Vertical": -1,
+        "Horizontal": 0
+      },
+      {
+        "Vertical": 1,
+        "Horizontal": -1
+      },
+      {
+        "Vertical": 0,
+        "Horizontal": -1
+      },
+      {
+        "Vertical": 0,
+        "Horizontal": 1
+      },
+      {
+        "Vertical": -1,
+        "Horizontal": 1
+      }
+    ],
+    "Tier2": [
+      {
+        "Vertical": 2,
+        "Horizontal": 0
+      },
+      {
+        "Vertical": -2,
+        "Horizontal": 0
+      },
+      {
+        "Vertical": 2,
+        "Horizontal": -1
+      },
+      {
+        "Vertical": 2,
+        "Horizontal": -2
+      },
+      {
+        "Vertical": 1,
+        "Horizontal": 1
+      },
+      {
+        "Vertical": 1,
+        "Horizontal": -2
+      },
+      {
+        "Vertical": 0,
+        "Horizontal": 2
+      },
+      {
+        "Vertical": 0,
+        "Horizontal": -2
+      },
+      {
+        "Vertical": -1,
+        "Horizontal": 2
+      },
+      {
+        "Vertical": -1,
+        "Horizontal": -1
+      },
+      {
+        "Vertical": -2,
+        "Horizontal": 1
+      },
+      {
+        "Vertical": -2,
+        "Horizontal": 2
+      }
+    ]
+  }
+}
